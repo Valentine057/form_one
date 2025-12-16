@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_your_profile">Setup Your Profile</string>
+    <string name="username">Username</string>
+    <string name="username_desc">Choose a unique username that represents you. It must start with a letter or underscore.</string>
+    <string name="educational_rank">Educational Rank *</string>
+    <string name="educational_rank_desc">Select your current educational status to connect with the right community.</string>
+    <string name="institution_name">Institution name *</string>
+    <string name="institution_name_desc">Add your school or university to find classmates and campus activities.</string>
+    <string name="add_photo">Add photo</string>
+    <string name="add_photo_desc">Add profile and cover photos to personalize your profile. Photos upload instantly!</string>
+    <string name="complete_profile_message">Complete your profile to unlock all features and connect with your campus community.</string>
+    <string name="student">Student</string>
+    <string name="institution_not_found">Institution not found? Add it!</string>
+    <string name="course_of_study">Course of study *</string>
+    <string name="current_year">Current year (Level)</string>
+    <string name="save">Save</string>
+    <string name="profile_tips">Profile Tips</string>
+    <string name="choose_wisely">Choose Wisely</string>
+    <string name="choose_wisely_desc">Your username is permanent and identifies you across the platform.</string>
+    <string name="be_authentic">Be Authentic</string>
+    <string name="be_authentic_desc">Use your real educational details to connect with genuine peers.</string>
+    <string name="quality_photos">Quality Photos</string>
+    <string name="quality_photos_desc">Upload clear photos for better recognition within your campus.</string>
+    <string name="profile_benefits">Profile Benefits</string>
+    <string name="connect_with_peers">Connect with peers</string>
+    <string name="join_campus_events">Join campus events</string>
+    <string name="access_discussions">Access discussions</string>
+    <string name="unlock_premium_features">Unlock premium features</string>
+    <string name="pro_tip">Pro Tip</string>
+    <string name="pro_tip_desc">Complete all fields to maximize your profile visibility and get the most out of AllCampus!</string>
+</resources>
