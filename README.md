@@ -127,14 +127,14 @@ flutter run
 ## 📸 Screenshots
 
 Mobile screenshots:
-<Img src="lib/Screenshot 2025-12-18 103635.png" width="30%" height="30%"><br><br><br><Img src="lib/Screenshot 2025-12-18 103733.png" width="30%" height="30%">
+<Img src="lib/Screenshot 2025-12-18 103635.png" width="30%" height="15%"><br><br><br><Img src="lib/Screenshot 2025-12-18 103733.png" width="30%" height="15%">
 <br>
 <br>
 <br>
 <br>
 Tablet screenshots:
-<Img src="lib/Screenshot 2025-12-18 103649.png" width="50%">
-<Img src="lib/Screenshot 2025-12-18 103751.png" width="45%">
+<Img src="lib/Screenshot 2025-12-18 103649.png" width="30%">
+<Img src="lib/Screenshot 2025-12-18 103751.png" width="35%">
 <br>
 <br>
 <br>
