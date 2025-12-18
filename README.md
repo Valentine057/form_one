@@ -140,7 +140,7 @@ Tablet screenshots:
 <br>
 <br>
 Destop screenshot:
-<Img src="lib/Screenshot 2025-12-18 103817" width="25%">
+<Img src="lib/Screenshot 2025-12-18 103817.png" width="25%">
 
 
 
