@@ -126,7 +126,7 @@ flutter run
 
 ## 📸 Screenshots
 
-Create a `screenshots/` folder in the project root and add images:
+<Img src="
 
 
 
