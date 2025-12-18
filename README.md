@@ -126,7 +126,22 @@ flutter run
 
 ## 📸 Screenshots
 
-<Img src="
+Mobile screenshots:
+<Img src="lib/Screenshot 2025-12-18 103635.png" width="30%" height="30%"><br><br><br><Img src="lib/Screenshot 2025-12-18 103733.png" width="30%" height="30%">
+<br>
+<br>
+<br>
+<br>
+Tablet screenshots:
+<Img src="lib/Screenshot 2025-12-18 103649.png" width="50%">
+<Img src="lib/Screenshot 2025-12-18 103751.png" width="45%">
+<br>
+<br>
+<br>
+<br>
+Destop screenshot:
+<Img src="lib/Screenshot 2025-12-18 103871.png" width="45%">
+
 
 
 
